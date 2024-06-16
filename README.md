@@ -129,4 +129,4 @@ O arquivo CSV deve estar no diretório raiz do projeto com o nome `tasks.csv`.
 
 ## Licença
 
-Este projeto está licenciado sob a licença ISC.
+Este projeto está licenciado sob a licença MIT.
